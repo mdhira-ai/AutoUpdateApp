@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 CURRENT_VERSION = "1.0.0"
-REPO_URL = "https://api.github.com/repos/mdhira-ai/YOUR_REPO/releases/latest"
+REPO_URL = "https://api.github.com/repos/mdhira-ai/AutoUpdateApp/releases/latest"
 
 def check_for_updates():
     try:
