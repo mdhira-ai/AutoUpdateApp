@@ -1,4 +1,4 @@
-![alt text](image.png){width=120px height=120px  style="display: block; margin: 0 auto"} 
+# <center> ![alt text](image.png)
 
 # <center> AutoUpdateApp </center>
 
