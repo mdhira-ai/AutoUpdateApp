@@ -1,4 +1,4 @@
-## Download & use `mylib` for updating
+## ✅ Download & use `mylib` for updating
 
 make `version.py` file in root folder and add only two tags
 ```json
@@ -19,3 +19,8 @@ make sure never change `AppId={{YOUR-UNIQUE-GUID-HERE}}`.only change version. an
 CloseApplications=yes
 RestartApplications=yes
 ```
+
+## ℹ️ Future update
+
+Will use OOP for mylib. and make `CURRENT_VERSION` as a method.
+
