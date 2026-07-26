@@ -5,7 +5,7 @@ import subprocess
 import tkinter as tk
 from tkinter import messagebox
 
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "1.0.1"
 REPO_URL = "https://api.github.com/repos/mdhira-ai/AutoUpdateApp/releases/latest"
 
 def check_for_updates():
@@ -57,7 +57,7 @@ def download_and_install(release_data):
 
 # Simple Tkinter GUI Window
 root = tk.Tk()
-root.title("Auto-Update App")
+root.title("Auto-Update App by Habib")
 root.geometry("300x150")
 
 label = tk.Label(root, text=f"Current Version: {CURRENT_VERSION}", font=("Arial", 12))

@@ -1,7 +1,7 @@
 [Setup]
 AppId={{YOUR-UNIQUE-GUID-HERE}}
 AppName=AutoUpdateApp
-AppVersion=1.0.0
+AppVersion=1.0.1
 DefaultDirName={autopf}\AutoUpdateApp
 DefaultGroupName=AutoUpdateApp
 OutputDir=.
