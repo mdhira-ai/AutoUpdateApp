@@ -1,3 +1,7 @@
+![alt text](image.png){width=120px height=120px  style="display: block; margin: 0 auto"} 
+
+# <center> AutoUpdateApp </center>
+
 ## ✅ Download & use `mylib` for updating
 
 make `version.py` file in root folder and add only two tags
