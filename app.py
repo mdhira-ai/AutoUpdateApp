@@ -5,7 +5,7 @@ import subprocess
 import tkinter as tk
 from tkinter import messagebox
 
-CURRENT_VERSION = "1.0.1"
+CURRENT_VERSION = "1.0.3"
 REPO_URL = "https://api.github.com/repos/mdhira-ai/AutoUpdateApp/releases/latest"
 
 def check_for_updates():
@@ -62,6 +62,9 @@ root.geometry("300x150")
 
 label = tk.Label(root, text=f"Current Version: {CURRENT_VERSION}", font=("Arial", 12))
 label.pack(pady=20)
+
+label2 = tk.Label(root,text="hello world, habib")
+label2.pack()
 
 btn = tk.Button(root, text="Check for Updates", command=check_for_updates)
 btn.pack(pady=10)
